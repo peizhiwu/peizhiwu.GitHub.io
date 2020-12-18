@@ -16,7 +16,7 @@ Hengpeng Xu, <b>Peizhi Wu</b>, Jinmao Wei, Zhenglu Yang, Jun Wang. <i>The third 
 * <b> Neural Framework for Joint Evolution Modeling of User Feedback and Social Links in Dynamic Social Networks.</b>. <br>
 <b>Peizhi Wu</b>, Yi Tu, Xiaojie Yuan, Adam Jatowt and Zhenglu Yang. <i>The 27th International Joint Conference on Artificial Intelligence (**IJCAI 2018**)</i>. <br>
 * <b>Deep Modeling of the Evolution of User Preferences and Item Attributes in Dynamic Social Networks</b>. <br>
-<b>Peizhi Wu</b>, Yi Tu, Zhenglu Yang, Adam Jatowt, Masato Odagaki. <i>The 2018 World Wide Web Conference(Poster, **WWW 2018**)</i>.<br>
+<b>Peizhi Wu</b>, Yi Tu, Zhenglu Yang, Adam Jatowt, Masato Odagaki. <i>The 2018 World Wide Web Conference (Poster, **WWW 2018**)</i>.<br>
 
 
 ## 2017
