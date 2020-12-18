@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a research assistant with the Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE) at [Nanyang Technological University](https://www.ntu.edu.sg/), working on machine learning for database systems. My supervisor is Professor. [Gao Cong](https://personal.ntu.edu.sg/gaocong/).<br>
+I am currently a research assistant with the Singtel Cognitive and Artificial Intelligence Lab for Enterprises ([SCALE](http://scale.ntu.edu.sg/Pages/default.aspx)) at [Nanyang Technological University](https://www.ntu.edu.sg/), working on machine learning for database systems. My supervisor is Professor. [Gao Cong](https://personal.ntu.edu.sg/gaocong/).<br>
 <br>
-I received my Bachelor's and Master's degree from [Nankai University](https://en.nankai.edu.cn/) in Tianjin, China, where I am a member of the institue of Big Data.
+I received my Bachelor's and Master's degree from [Nankai University](https://en.nankai.edu.cn/) in Tianjin, China, where I am a member of [the institue of Big Data](https://bigdata.nankai.edu.cn/).
 
 # Research
 My research interests mainly lie in **machine learning** (including probabilistic models and deep learning models) and its application to **database systems** and **data mining**.<br>
