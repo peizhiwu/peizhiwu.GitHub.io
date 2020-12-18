@@ -1,25 +1,25 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently a research assistant with the Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE) at [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of Professor. [Gao Cong](https://personal.ntu.edu.sg/gaocong/)<br>
+I am currently a research assistant with the Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE) at [Nanyang Technological University](https://www.ntu.edu.sg/), working on machine learning for database systems. My supervisor is Professor. [Gao Cong](https://personal.ntu.edu.sg/gaocong/).<br>
 <br>
 I received my Bachelor's and Master's degree in [Nankai University](https://en.nankai.edu.cn/) in Tianjin, China, where I am a member of the institue of Big Data.
 
 # Research
-My research interests mainly lie in **machine learning (including probabilistic models and deep learning models) and its application to database systems and data mining**.<br>
+My research interests mainly lie in machine learning (including probabilistic models and deep learning models) and its application to database systems and data mining.<br>
 
 
 # Publications
 * **Peizhi Wu**, Gao Cong "A unified deep cardinality estimator". Submitted to the 2021 ACM International Conference on Management of Data ([SIGMO1 2021](https://2021.sigmod.org/)) and it has been invited to submit a revision (25\%).
 * **Peizhi Wu**, Yi Tu, Xiaojie Yuan, Adam Jatowt and Zhenglu Yang. "Neural Framework for Joint Evolution Modeling of User Feedback and Social Links in Dynamic Social
 Networks". Published in the 27th International Joint Conference on Artificial Intelligence ([IJCAI 2018](https://www.ijcai-18.org/)).
-* **Peizhi Wu**, Yi Tu, Zhenglu Yang, Adam Jatowt, Masato Odagaki. "Deep Modeling of the Evolution of User Preferences and Item Attributes in Dynamic Social Networks". Published in the 2018 World Wide Web Conference ([WWW 2018](https://www2018.thewebconf.org/)).
+* **Peizhi Wu**, Yi Tu, Zhenglu Yang, Adam Jatowt, Masato Odagaki. "Deep Modeling of the Evolution of User Preferences and Item Attributes in Dynamic Social Networks". Published in the 2018 World Wide Web Conference (poster, [WWW 2018](https://www2018.thewebconf.org/)).
 * Hengpeng Xu, **Peizhi Wu**, Jinmao Wei, Zhenglu Yang, Jun Wang. "A Meta-Path-Based Recurrent Model for Next POI Prediction with Spatial and Temporal Contexts". Published in The third Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data([APWeb-WAIM 2019](https://cfm.uestc.edu.cn/apwebwaim2019/)).
 
 
