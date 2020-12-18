@@ -21,7 +21,7 @@ My research interests mainly lie in **machine learning** (including probabilisti
 Networks". Published in the 27th International Joint Conference on Artificial Intelligence ([IJCAI 2018](https://www.ijcai-18.org/)).
 * **Peizhi Wu**, Yi Tu, Zhenglu Yang, Adam Jatowt, Masato Odagaki. "Deep Modeling of the Evolution of User Preferences and Item Attributes in Dynamic Social Networks". Published in the 2018 World Wide Web Conference (poster, [WWW 2018](https://www2018.thewebconf.org/)).
 * Hengpeng Xu, **Peizhi Wu**, Jinmao Wei, Zhenglu Yang, Jun Wang. "A Meta-Path-Based Recurrent Model for Next POI Prediction with Spatial and Temporal Contexts". Published in The third Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data ([APWeb-WAIM 2019](https://cfm.uestc.edu.cn/apwebwaim2019/)).
-* Le Huang, Han Zhang, **Peizhi Wu**, Sarah Entwistle, Xueqiong Li, Tanner Yohe, Haidong Yi, Zhenglu Yang, Yanbin Yin. "dbCAN-seq: a database of carbohydrate-active enzyme (CAZyme) sequence and annotation". Published in Nucleic Acids Research ([NAR]()).
+* Le Huang, Han Zhang, **Peizhi Wu**, Sarah Entwistle, Xueqiong Li, Tanner Yohe, Haidong Yi, Zhenglu Yang, Yanbin Yin. "dbCAN-seq: a database of carbohydrate-active enzyme (CAZyme) sequence and annotation". Published in Nucleic Acids Research ([NAR 2017](https://www.ncbi.nlm.nih.gov/pmc/journals/4/)).
 
 # Honors and Awards
 * 2019.05  Outstanding Graduates from Nankai University (top 5%)
