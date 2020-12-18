@@ -24,17 +24,11 @@ Networks". Published in the 27th International Joint Conference on Artificial In
 * Le Huang, Han Zhang, **Peizhi Wu**, Sarah Entwistle, Xueqiong Li, Tanner Yohe, Haidong Yi, Zhenglu Yang, Yanbin Yin. "dbCAN-seq: a database of carbohydrate-active enzyme (CAZyme) sequence and annotation". Published in Nucleic Acids Research 2017.
 
 # Honors and Awards
-* ZhuLiYueHua Scholarship for Excellent Doctoral Student (Top 1\%, RMB &yen; 5,000). <br> Chinese Academy of Sciences (CAS). 2019.
-* [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf). <br>University of Chinese Academy of Sciences (UCAS). 2019.
-* [CAS Presidential Scholarship (Top 1%, RMB &yen; 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf). <br> Chinese Academy of Sciences (CAS). 2019.
-* National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000). <br> Ministry of Education of P.R. China. 2019.
-* [National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf). <br> Ministry of Education of P.R. China. 2018.
-* [IIE Presidential Scholarship (Top 10%, RMB &yen; 2,000)](https://lijian.ac.cn/files/awards/2018_iie_presidential_scholarship.pdf).
-  <br> Institute of Information Engineering, CAS. 2018.
-* [Merit Student](https://lijian.ac.cn/files/awards/2018_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2018.
-* [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019.
-* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2017.
-* [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2018_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2018.
+* 2019.05 Outstanding Graduates from Nankai University (top 5%)
+* 2018.10 China National Scholarship (Highest scholarship given by Chinese government, top 0.1%)
+* 2015.10 Hezhan Endeavor Scholarship from the Foundation for the Development of Science and Technology Museums in China
+* 2014.10 Gongneng Scholarship from Nankai University
+* 2013.10 The First Prize Scholarship from Nankai University
 
 <!---Activity and Service--->
 <!---Experience--->
