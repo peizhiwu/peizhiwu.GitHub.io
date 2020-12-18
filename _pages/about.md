@@ -20,7 +20,7 @@ My research interests mainly lie in **machine learning** (including probabilisti
 * **Peizhi Wu**, Yi Tu, Xiaojie Yuan, Adam Jatowt and Zhenglu Yang. "Neural Framework for Joint Evolution Modeling of User Feedback and Social Links in Dynamic Social
 Networks". Published in the 27th International Joint Conference on Artificial Intelligence ([IJCAI 2018](https://www.ijcai-18.org/)).
 * **Peizhi Wu**, Yi Tu, Zhenglu Yang, Adam Jatowt, Masato Odagaki. "Deep Modeling of the Evolution of User Preferences and Item Attributes in Dynamic Social Networks". Published in the 2018 World Wide Web Conference (poster, [WWW 2018](https://www2018.thewebconf.org/)).
-* Hengpeng Xu, **Peizhi Wu**, Jinmao Wei, Zhenglu Yang, Jun Wang. "A Meta-Path-Based Recurrent Model for Next POI Prediction with Spatial and Temporal Contexts". Published in The third Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data([APWeb-WAIM 2019](https://cfm.uestc.edu.cn/apwebwaim2019/)).
+* Hengpeng Xu, **Peizhi Wu**, Jinmao Wei, Zhenglu Yang, Jun Wang. "A Meta-Path-Based Recurrent Model for Next POI Prediction with Spatial and Temporal Contexts". Published in The third Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data ([APWeb-WAIM 2019](https://cfm.uestc.edu.cn/apwebwaim2019/)).
 
 
 # Honors and Awards
