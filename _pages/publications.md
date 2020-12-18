@@ -3,16 +3,10 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
-## 2020
-* <b>Automated Spectral Kernel Learning</b>. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br>
-[[PDF]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_ASKL.pdf)
-[[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
-[[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
-* <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2002.12744 , 2020</i>.<br>
-[[PDF]](https://arxiv.org/pdf/2002.12744)
-
+## 2021
+* <b>A unified deep cardinality estimator</b>. <br>
+<b>Peizhi Wu</b>, Gao Cong. <i>Submitted to the 2021 ACM International Conference on Management of Data  (**SIGMOD 2021**)</i>.<br>
+It has been invited to submit a revision (Revision rate: 20%-25%, according to previous [committee report](https://sigmodrecord.org/publications/sigmodRecord/1812/pdfs/06_Reports_Bernstein.pdf))
 
 ## 2019
 * <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b>. <br>
