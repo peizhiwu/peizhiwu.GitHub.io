@@ -21,4 +21,4 @@ Hengpeng Xu, <b>Peizhi Wu</b>, Jinmao Wei, Zhenglu Yang, Jun Wang. <i>The third 
 
 ## 2017
 * <b>dbCAN-seq: a database of carbohydrate-active enzyme (CAZyme) sequence and annotation</b>. <br>
-<b>Le Huang, Han Zhang, <b>Peizhi Wu</b>, Sarah Entwistle, Xueqiong Li, Tanner Yohe, Haidong Yi, Zhenglu Yang, Yanbin Yin. <i> Nucleic Acids Research (**NAR 2017**) </i>. <br>
+Le Huang, Han Zhang, <b>Peizhi Wu</b>, Sarah Entwistle, Xueqiong Li, Tanner Yohe, Haidong Yi, Zhenglu Yang, Yanbin Yin. <i> Nucleic Acids Research (**NAR 2017**) </i>. <br>
