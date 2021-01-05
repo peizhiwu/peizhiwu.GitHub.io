@@ -11,14 +11,17 @@ I am currently a research assistant with the Singtel Cognitive and Artificial In
 <br>
 I received my Bachelor's and Master's degree from [Nankai University](https://en.nankai.edu.cn/) in Tianjin, China, where I was a member of [the Institue of Big Data](https://bigdata.nankai.edu.cn/).
 
+# News
+Jan/05/2021  Our paper about a unified deep cardinality estimator is accepted to SIGMOD 2021. Good moment! The paper presents an interesting solution to training deep autoregressive models from both data and queries.
+
 # Research
 My research interests mainly lie in **machine learning** (including probabilistic models and deep learning models) and its application to **database systems** and **data mining**.<br>
 
 
 # Publications
-* **Peizhi Wu**, Gao Cong "A Unified Deep Cardinality Estimator". Submitted to the 2021 ACM International Conference on Management of Data ([SIGMOD 2021](https://2021.sigmod.org/)) and it has been invited to submit a revision (Revision rate: 20%-25%, according to previous [committee report](https://sigmodrecord.org/publications/sigmodRecord/1812/pdfs/06_Reports_Bernstein.pdf)).
+* **Peizhi Wu**, Gao Cong "A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation". Accepted to the 2021 ACM International Conference on Management of Data ([SIGMOD 2021](https://2021.sigmod.org/)).
 * **Peizhi Wu**, Yi Tu, Xiaojie Yuan, Adam Jatowt and Zhenglu Yang. "Neural Framework for Joint Evolution Modeling of User Feedback and Social Links in Dynamic Social
-Networks". Published in the 27th International Joint Conference on Artificial Intelligence ([IJCAI 2018](https://www.ijcai-18.org/)).
+Networks". Published in the 27th International Joint Conference on Artificial Intelligence ([IJCAI-ECAI 2018](https://www.ijcai-18.org/)).
 * **Peizhi Wu**, Yi Tu, Zhenglu Yang, Adam Jatowt, Masato Odagaki. "Deep Modeling of the Evolution of User Preferences and Item Attributes in Dynamic Social Networks". Published in the 2018 World Wide Web Conference (poster, [WWW 2018](https://www2018.thewebconf.org/)).
 * Hengpeng Xu, **Peizhi Wu**, Jinmao Wei, Zhenglu Yang, Jun Wang. "A Meta-Path-Based Recurrent Model for Next POI Prediction with Spatial and Temporal Contexts". Published in The third Asia Pacific Web and Web-Age Information Management Joint Conference on Web and Big Data ([APWeb-WAIM 2019](https://cfm.uestc.edu.cn/apwebwaim2019/)).
 * Le Huang, Han Zhang, **Peizhi Wu**, Sarah Entwistle, Xueqiong Li, Tanner Yohe, Haidong Yi, Zhenglu Yang, Yanbin Yin. "dbCAN-seq: a database of carbohydrate-active enzyme (CAZyme) sequence and annotation". Published in Nucleic Acids Research ([NAR 2017](https://www.ncbi.nlm.nih.gov/pmc/journals/4/)).
