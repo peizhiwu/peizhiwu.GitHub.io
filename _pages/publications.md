@@ -4,9 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2021
-* <b>A Unified Deep Cardinality Estimator</b>. <br>
-<b>Peizhi Wu</b>, Gao Cong. <i>Submitted to the 2021 ACM International Conference on Management of Data  (**SIGMOD 2021**)</i>.<br>
-It has been invited to submit a revision (Revision rate: 20%-25%, according to previous [committee report](https://sigmodrecord.org/publications/sigmodRecord/1812/pdfs/06_Reports_Bernstein.pdf)) and is waiting for the final decision.
+* <b>A Unified Deep Model of Learning from both Data and Queries for Cardinality Estimation</b>. <br>
+<b>Peizhi Wu</b>, Gao Cong. <i>The 2021 ACM International Conference on Management of Data  (**SIGMOD 2021**)</i>.<br>
 
 ## 2019
 * <b>A Meta-Path-Based Recurrent Model for Next POI Prediction with Spatial and Temporal Contexts</b>. <br>
