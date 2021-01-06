@@ -11,7 +11,7 @@ I am currently a research assistant with the Singtel Cognitive and Artificial In
 <br>
 I received my Bachelor's and Master's degree from [Nankai University](https://en.nankai.edu.cn/) in Tianjin, China, where I was a member of [the Institue of Big Data](https://bigdata.nankai.edu.cn/).
 
-# <span style="color:red">News</span>
+# <span style="color:blue">News</span>
 Jan/05/2021:  Our paper about a unified deep cardinality estimator is accepted to SIGMOD 2021. Good moment! The paper presents an interesting solution to training deep autoregressive models from both data and queries.
 
 # Research
