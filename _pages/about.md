@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a research assistant with the Singtel Cognitive and Artificial Intelligence Lab for Enterprises ([SCALE](http://scale.ntu.edu.sg/Pages/default.aspx)) at [Nanyang Technological University](https://www.ntu.edu.sg/), working on machine learning for database systems. My supervisor is Professor. [Gao Cong](https://personal.ntu.edu.sg/gaocong/).<br>
 <br>
-I received my Bachelor's and Master's degree from [Nankai University](https://en.nankai.edu.cn/) in Tianjin, China, where I was a member of [the Institue of Big Data](https://bigdata.nankai.edu.cn/).
+I received my Bachelor's and Master's degrees from [Nankai University](https://en.nankai.edu.cn/) in Tianjin, China, where I was a member of [the Institue of Big Data](https://bigdata.nankai.edu.cn/).
 
 # <span style="color:#1589F0">News</span>
 Jan/05/2021:  Our paper about a unified deep cardinality estimator is accepted to [SIGMOD 2021](https://2021.sigmod.org/). Good moment! The paper presents an interesting solution to training deep autoregressive models from both data and queries.
